@@ -16,7 +16,7 @@
         config.allowUnfree = true;
       };
 
-      version = "2.9.13";
+      version = "2.9.4";
     in
     {
       packages = forAllSystems (system:
