@@ -14,7 +14,7 @@ let
     owner = "wheaney";
     repo = "breezy-desktop";
     rev = "v${version}";
-    hash = "sha256-rRDdvFhoI3nE9zET2Whr/BSQ3J7JQzpv7/UUdvfW4wY=";
+    hash = "sha256-QY9PWx53HWsGeBkNC86hosGfw+mMdlzBI8UsYu53E44=";
     fetchSubmodules = true;
   };
 in
